@@ -197,7 +197,7 @@ DBTable=rbind(DBTable,
                          Value=c(tiempoPasado,
                                  elapsTimeMsg),
                          Ticker=c("elapsed time",
-                                  "elapses time message"),
+                                  "elapsed time message"),
                          Experiment=experiment)
                )
 
